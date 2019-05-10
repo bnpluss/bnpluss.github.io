@@ -3,3 +3,4 @@ name: Bob Pluss
 markdown: kramdown
 title: BobPluss.com
 description: Let's go mix & mangle
+permalink: /blog/:year/:month/:day/:title
