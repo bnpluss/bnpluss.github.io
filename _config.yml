@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
 name: Bob Pluss
 markdown: kramdown
-theme: jekyll-theme-cayman
+title: BobPluss.com
+description: Let's go mix & mangle
